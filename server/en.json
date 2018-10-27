@@ -1,0 +1,9 @@
+﻿{
+    "Culture": "en",
+    "Name": "English",
+    "Country": null,
+    "Strings":
+    {
+        "start_serverGreet_X": "Monster Slaught Server {0}"
+    }
+}
